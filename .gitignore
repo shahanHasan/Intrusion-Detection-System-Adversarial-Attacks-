@@ -2,7 +2,7 @@
 *.odt
 *.zip
 *.txt
-
+IDS_Metho*
 #Folders
 Paper/
 UCI\ Botnet\ Dataset/
