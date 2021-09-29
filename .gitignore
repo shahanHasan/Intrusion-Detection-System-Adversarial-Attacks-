@@ -4,6 +4,8 @@
 *.txt
 IDS_Metho*
 #Folders
+data/
+DRELab/
 Paper/
 UCI\ Botnet\ Dataset/
 MachineLearningCVE/
