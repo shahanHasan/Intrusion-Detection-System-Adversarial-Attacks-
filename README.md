@@ -53,15 +53,35 @@
 
 ---
 
-![Algorithm 1 : Label Flipping](alg_1.png)
-2. **Fake Data Addition**
+
+2. **DRELab Benchmark dataset for Adversarial Attacks**
 
 ---
 
-![Algorithm 2 : Addition of Fauulty Data](alg_2.png)
+3. **GAN'S for Generation of Adversarial Samples for seven different attack scenarios: Brute-force, Heartbleed, Botnet, DoS, DDoS, Web attacks, and infiltration of the network from inside**
+
+---
+
+# Adversarial Attacks on Deep Learning Models :
+1. **Fast Gradient Method (FGM)**
+
+---
+
+2. **Fast Gradient Sign Method (FGSM)**
+
+---
+
+3. **L2 Projected Gradient Descent (PGD)**
+
+---
+
+4. **Linf Projected Gradient Descent (LinfPGD)**
+
+---
+
+
 ## Adversarial attacks defensive mechanism :
 1. **Application of KNN as Defence**
 
 ---
 
-![Algorithm 3 : Defence Mechanism](alg_3.png)
